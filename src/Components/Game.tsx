@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import { useState, useRef } from 'react';
 import rock from '../assets/images/icon-rock.svg';
 import paper from '../assets/images/icon-paper.svg';
 import scissors from '../assets/images/icon-scissors.svg';
